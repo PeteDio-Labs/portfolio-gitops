@@ -1,3 +1,3 @@
 kustomize:
   images:
-  - docker.pdlab.dev/portfolio@sha256:3aa2f32e71ced86a5243f8be8a0df940664cb1333c01524666f34b7fdcdf0820
+  - docker.pdlab.dev/portfolio@sha256:27a00f9c646eefd1000d9906383db76f2a80dc31756221374608608b60f06a23
